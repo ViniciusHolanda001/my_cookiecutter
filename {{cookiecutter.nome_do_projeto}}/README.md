@@ -1,5 +1,7 @@
 [//]: # (Badges do projeto - 🡣)
 
+<a href="https://anaconda.org/conda-forge/airflow"> <img src="https://anaconda.org/conda-forge/airflow/badges/latest_release_date.svg" /> </a>
+
 [![image](https://img.shields.io/badge/banco%20de%20dados-{{cookiecutter.conexao_com_banco_de_dados}}-inactive)]()
 [![image](https://img.shields.io/badge/tags-{{cookiecutter.tags.replace(',', '%20|%20')}}-blue)]()
 [![image](https://img.shields.io/badge/Airflow-{{cookiecutter.rodara_no_airflow}}-inactive)]()
@@ -20,11 +22,6 @@
 
 [//]: # (🡣 Equipe 🡣)
 
-# Equipe
+# Profile
 
-* Bruno - [E-MAIL](mailto:brunovos@uninove.br?subject=[Git%20Machine%20Learning])
-* David - [E-MAIL](mailto:davidas@uninove.br?subject=[Git%20Machine%20Learning])
-* Felipe - [E-MAIL](mailto:felipesa@uninove.br?subject=[Git%20Machine%20Learning])
-* José Eduardo - [E-MAIL](mailto:josees@uninove.br?subject=[Git%20Machine%20Learning])
-* Rodrigo - [E-MAIL](mailto:rodrigolto@uninove.br?subject=[Git%20Machine%20Learning])
 * Vinicius - [E-MAIL](mailto:viniciushc@uninove.br?subject=[Git%20Machine%20Learning])
