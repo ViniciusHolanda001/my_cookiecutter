@@ -1,2 +1,3 @@
-# my_cookiecutter
-A template for repositories
+# cookiecutter-profile-viniciusholanda
+
+A template for repositories.

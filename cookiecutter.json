@@ -1,0 +1,8 @@
+{
+	"nome_do_projeto": "Nome do projeto",
+    "dono_do_projeto": "Usuario responsavel pelo projeto",
+	"descricao_do_projeto": "Uma pequena descricao deste projeto",
+	"conexao_com_banco_de_dados": ["Nao", "Sim"],
+	"rodara_no_airflow": ["Nao", "Sim"],
+    "tags": "Ex: 'Scraping','Airflow'"
+}
