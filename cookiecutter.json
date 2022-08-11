@@ -1,8 +1,7 @@
 {
 	"repository_name": "Repository name",
-    "repository_owner": "Repository owner",
-	"repository_description": "Repository description",
-	"conexao_com_banco_de_dados": ["Nao", "Sim"],
-	"rodara_no_airflow": ["Nao", "Sim"],
-    "tags": "Ex: 'Scraping','Airflow'"
+    "repository_url": "Repository URL",
+	"project_description": "Repository description",
+	"open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
+    "labels": "e.g.('EXPLORATORY','ANALYSIS','SCRAPING')"
 }
